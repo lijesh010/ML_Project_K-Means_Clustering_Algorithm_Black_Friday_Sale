@@ -1,0 +1,2 @@
+# ML_Project_K-Means_Clustering_Algorithm_Black_Friday_Sale
+This repository contains an example machine learning project that demonstrates the application of K-Means clustering algorithm on a Black Friday sale dataset. The project aims to analyze customer behavior and preferences during a Black Friday sale, specifically focusing on identifying distinct buyer age groups, their product of interest, and the product category with the highest sales.
